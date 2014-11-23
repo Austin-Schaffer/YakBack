@@ -4,7 +4,7 @@
     <string name="hello_world">Hello world!</string>
     <string name="menu_settings">Settings</string>
     <string name="checkIn">Refresh Store List</string>
-    <string name="onlineShopping">Online Shopping</string>
+    <string name="onlineShopping">Home Screen</string>
     <string name="myAccount">My Account</string>
     <string name="nearbyPlaces">Select a store to see store offers and information</string>
     <string name="offers">Current Offers</string>
@@ -29,6 +29,12 @@
     
     <string name="action_settings">Action Settings</string>
     <string name="register">Register</string>
+    <string name="me">Me</string>
+    <string name="them">Them</string>
+    <color name="cyan">#00ffff</color>
+    <string name="demoString">Demo String</string>
+    <color name="black">#000000</color>
+    <color name="blue">#0000ff</color>
     
 </resources>
 
